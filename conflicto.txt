@@ -1,3 +1,7 @@
 Documento para provocar conflicto
 
+<<<<<<< HEAD
 master escribe una linea y hace commit
+=======
+Espisepi escribe una linea
+>>>>>>> espisepi
