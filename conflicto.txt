@@ -1,1 +1,3 @@
 Documento para provocar conflicto
+
+master escribe una linea y hace commit
